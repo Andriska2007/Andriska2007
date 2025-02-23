@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey there! I'm Andris
 
-<!--
-**Andriska2007/Andriska2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate Software Developer | 💡 Problem Solver | 🌱 Always Learning
 
-Here are some ideas to get you started:
+## 😎 About Me
+- 🎓 Studying Software Development | Coding since 13 🍳
+- 💯 Focus: **C# & .NET** | Also have **junior-level experience** in **Python, JavaScript, HTML & CSS**
+- 🧪 Tools: **Visual Studio 2022, VS Code, Git**
+- 🌍 Based in **Hungary**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✏️ What I Do
+💠 Build and optimize applications with **C# & .NET**
+💠 Develop dynamic and responsive **web projects**
+💠 Solve complex programming challenges & explore **algorithms**
+💠 Experimenting with **software architecture & design patterns**
+
+## 📚 Skills
+- **Languages:** C#, Python, JavaScript, HTML, CSS
+- **Tech & Tools:** .NET, Git, VS Code, Visual Studio 2022
+- **Interests:** Software Architecture, Algorithms, Clean Code, Problem-Solving
+
+## 🚀 What I’m Working On
+💠 Expanding my C# & .NET expertise
+💠 Deep diving into **data structures & algorithms**
+💠 Exploring **game development & AI** (future plans!)
+
+*"Code, Learn, Build, Repeat!"* ♻️
